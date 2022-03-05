@@ -1,0 +1,15 @@
+{
+    "meta": {
+        "desc": " this is a test on BR module", 
+        "kews": "BRtest BRhtml test html packer"
+    },
+    "static": {
+        "title": "HA3 HA3"
+    }, 
+    "nav" : {
+        "logo" : "<img src='imgs/assets/logo.png' alt='log'>" 
+    }, 
+    "copy": {
+        "year" : "2021"
+    }
+}
